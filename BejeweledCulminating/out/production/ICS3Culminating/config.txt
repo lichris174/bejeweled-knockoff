@@ -1,0 +1,8 @@
+images/logo.jpg
+images/Chrome_Logo.png
+images/Firefox_Logo.png
+images/Internet_Explorer_Logo.png
+images/Safari_Logo.png
+images/Android_Logo.png
+images/Java_Logo.png
+images/Steam_Logo.png
